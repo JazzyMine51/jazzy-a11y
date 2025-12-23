@@ -8,11 +8,12 @@ This site will have the following tabs:
 - Articles / Blog
     - This is where I will blog about what I learn about a11y and other web dev things
     - each article will have tags to search on
-    - this will use a library like Lunr.js or PageFind
+        - this will use a library like Lunr.js or PageFind to search the articles
 - A11y Tools
-    - This is where I will have articles about a11y tools that i used in my career
+    - This is where I will have articles about a11y tools that i used in my career / learning
 - About
     - Information about me, the person
+    - My CV
 - Contact
     - How to get into contact with me
 
@@ -22,6 +23,8 @@ This site will have the following A11Y features
     - search for any page / content on the site
     - this feature will take the most time to develop
 - proper alt text
+- proper aria (when needed)
+- (do my best to) comply with WCAG 2.2 AA
 
 
-BootStrap CSS will be used but no JS / custom components will be used
+The end goal is that BootStrap CSS will be used but no JS / custom components will be used. This is just to show off, I want to get the site running before moving away from some components. Right now the only component is the Nav Bar / Burger Menu on mobile
